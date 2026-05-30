@@ -22,8 +22,8 @@
 ```javascript
 const luizAugusto = {
   nome:       "Luiz Augusto",
-  foco:       "Desenvolvimento Web",
-  status:     "Aprendendo todo dia 📚",
+  foco:       "Desenvolvimento Web e mobile",
+  status:     "Aprendendo todo dia ",
   objetivo:   "Transformar ideias em produtos reais",
   atualmente: ["React", "Node.js"],
   curiosidade: "Acredito que o melhor código é o que resolve um problema real"
