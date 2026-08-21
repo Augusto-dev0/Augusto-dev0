@@ -11,7 +11,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto7x)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.augusto7x/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Augusto-dev0)
 
 </div>
 
@@ -25,8 +24,7 @@ const luizAugusto = {
   foco:       "Desenvolvimento Web e mobile",
   status:     "Aprendendo todo dia ",
   objetivo:   "Transformar ideias em produtos reais",
-  atualmente: ["React", "Node.js"],
-  curiosidade: "Acredito que o melhor código é o que resolve um problema real"
+  atualmente: ["Java", "React native"],
 };
 ```
 
@@ -51,7 +49,5 @@ const luizAugusto = {
 <div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Augusto-dev0.Augusto-dev0)
-
-*"Todo especialista já foi um iniciante. A diferença é que não parou."*
 
 </div>
