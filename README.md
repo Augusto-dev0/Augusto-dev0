@@ -24,7 +24,7 @@ const luizAugusto = {
   foco:       "Desenvolvimento Web e mobile",
   status:     "Aprendendo todo dia ",
   objetivo:   "Transformar ideias em produtos reais",
-  atualmente: ["Java", "React native"],
+  atualmente: ["Javascript", "Java", "React native"],
 };
 ```
 
