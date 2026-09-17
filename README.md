@@ -50,12 +50,9 @@ const luizAugusto = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Augusto-dev0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-dev0&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Augusto-dev0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Augusto-dev0&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Augusto-dev0&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
