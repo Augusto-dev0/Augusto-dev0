@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-augusto7x)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.augusto7x/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Augusto-dev0)
 
 </div>
 
@@ -44,27 +43,6 @@ const luizAugusto = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Augusto-dev0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Augusto-dev0&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Augusto-dev0&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
 
 ---
 
@@ -81,7 +59,5 @@ const luizAugusto = {
 <div align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Augusto-dev0.Augusto-dev0)
-
-*"Todo especialista já foi um iniciante. A diferença é que não parou."*
 
 </div>
