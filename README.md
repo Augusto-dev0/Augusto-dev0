@@ -15,6 +15,7 @@
 
 Desenvolvedor focado em **web e mobile**, construindo uma base sólida em JavaScript e no ecossistema React. Gosto de resolver problemas reais com código limpo e entregar projetos que funcionam de ponta a ponta.
 
+- 🎓 **Formação:** cursando Ciência da Computação na **UNINASSAU Maceió**
 - 🔭 **Estudando agora:** TypeScript, Java e React Native
 - 🎯 **Objetivo:** atuar profissionalmente como desenvolvedor Full Stack
 - 📫 **Aberto a:** oportunidades, estágios e projetos em colaboração
